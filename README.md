@@ -2,7 +2,7 @@
 <div style="text-align: center;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=xiaochen004hao&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=xiaochen004hao&show_icons=true&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
